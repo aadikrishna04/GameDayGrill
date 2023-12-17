@@ -1,0 +1,190 @@
+{
+  "appetizers": [
+    {
+      "title": "Loaded Nachos",
+      "description": "Tortilla chips topped with melted cheese, jalapeños, black beans, sour cream, and pico de gallo.",
+      "price": "$9.99",
+      "image": "/images/loaded-nachos.png"
+    },
+    {
+      "title": "Mozzarella Sticks",
+      "description": "Crispy fried mozzarella sticks served with marinara sauce for dipping.",
+      "price": "$6.99",
+      "image": "/images/mozzarella-sticks.png"
+    },
+    {
+      "title": "Spinach and Artichoke Dip",
+      "description": "Creamy spinach and artichoke dip served with tortilla chips or warm bread.",
+      "price": "$8.99",
+      "image": "/images/spinach-dip.png"
+    },
+    {
+      "title": "Beer-Battered Onion Rings",
+      "description": "Thick-cut onion rings coated in a beer batter, served with a zesty dipping sauce.",
+      "price": "$7.99",
+      "image": "/images/onion-rings.png"
+    },
+    {
+      "title": "Sweet Potato Fries",
+      "description": "Crispy sweet potato fries served with a side of chipotle aioli.",
+      "price": "$6.99",
+      "image": "/images/sweet-potato-fries.png"
+    },
+    {
+      "title": "Bruschetta",
+      "description": "Toasted baguette slices topped with diced tomatoes, garlic, and basil.",
+      "price": "$8.99",
+      "image": "/images/bruschetta.png"
+    }
+  ],
+  "entrees": [
+    {
+      "title": "Grilled Steak Tacos",
+      "description": "Marinated grilled steak topped with salsa, guacamole, and shredded cheese in soft tortillas.",
+      "price": "$14.99",
+      "image": "/images/steak-tacos.png"
+    },
+    {
+      "title": "Buffalo Chicken Wings",
+      "description": "Crispy chicken wings tossed in spicy buffalo sauce, served with celery sticks and blue cheese dressing.",
+      "price": "$11.99",
+      "image": "/images/buffalo-wings.png"
+    },
+    {
+      "title": "BBQ Pulled Pork Sandwich",
+      "description": "Slow-cooked pulled pork in smoky barbecue sauce, piled high on a toasted bun with coleslaw.",
+      "price": "$13.99",
+      "image": "/images/pulled-pork-sandwich.png"
+    },
+    {
+      "title": "Black Bean Burger",
+      "description": "A flavorful black bean patty topped with lettuce, tomato, and chipotle mayo, served on a whole-grain bun.",
+      "price": "$11.99",
+      "image": "/images/black-bean-burger.png"
+    },
+    {
+      "title": "Bacon and Blue Cheese Burger",
+      "description": "Char-grilled beef patty topped with crispy bacon, blue cheese crumbles, lettuce, and tomato.",
+      "price": "$15.99",
+      "image": "/images/bacon-burger.png"
+    },
+    {
+      "title": "Turkey Avocado Club Wrap",
+      "description": "Turkey, bacon, avocado, lettuce, and tomato wrapped in a flour tortilla.",
+      "price": "$12.99",
+      "image": "/images/turkey-club-wrap.png"
+    },
+    {
+      "title": "BBQ Brisket Sliders",
+      "description": "Mini sliders with slow-smoked BBQ brisket, pickles, and tangy barbecue sauce.",
+      "price": "$14.99",
+      "image": "/images/brisket-sliders.png"
+    },
+    {
+      "title": "Quinoa Burger",
+      "description": "A hearty quinoa and vegetable patty topped with lettuce, tomato, and a zesty aioli.",
+      "price": "$13.99",
+      "image": "/images/quinoa-burger.png"
+    },
+    {
+      "title": "Pasta Primavera",
+      "description": "Fresh vegetables sautéed with garlic and tossed with pasta in a light marinara sauce.",
+      "price": "$12.99",
+      "image": "/images/pasta-primavera.png"
+    },
+    {
+      "title": "Chicken Caesar Salad",
+      "description": "Grilled chicken breast, romaine lettuce, croutons, and Caesar dressing.",
+      "price": "$10.99",
+      "image": "/images/chicken-caesar-salad.png"
+    },
+    {
+      "title": "Tomato Basil Pizza",
+      "description": "Classic pizza with tomato, mozzarella, and fresh basil.",
+      "price": "$11.99",
+      "image": "/images/tomato-basil-pizza.png"
+    },
+    {
+      "title": "Mushroom and Swiss Veggie Melt",
+      "description": "Grilled portobello mushrooms and melted Swiss cheese on a ciabatta roll with roasted red peppers and basil pesto.",
+      "price": "$12.99",
+      "image": "/images/mushroom-swiss-melt.png"
+    }
+  ],
+  "desserts": [
+    {
+      "title": "Chocolate Stout Brownie Sundae",
+      "description": "Rich chocolate stout brownie topped with vanilla ice cream, chocolate sauce, and whipped cream.",
+      "price": "$8.99",
+      "image": "/images/brownie-sundae.png"
+    },
+    {
+      "title": "Key Lime Pie Bites",
+      "description": "Miniature key lime pies served with a dollop of whipped cream.",
+      "price": "$6.99",
+      "image": "/images/key-lime-bites.png"
+    },
+    {
+      "title": "Apple Cinnamon Scones",
+      "description": "Flaky empanadas filled with spiced apple and cinnamon, served warm with vanilla ice cream.",
+      "price": "$7.99",
+      "image": "/images/apple-scones.png"
+    },
+    {
+      "title": "Peanut Butter Pretzel Milkshake",
+      "description": "A creamy milkshake blended with peanut butter, chocolate, and crushed pretzels.",
+      "price": "$5.99",
+      "image": "/images/peanut-butter-milkshake.png"
+    },
+    {
+      "title": "Red Velvet Cake",
+      "description": "Moist red velvet cake with cream cheese frosting.",
+      "price": "$8.99",
+      "image": "/images/red-velvet-cake.png"
+    },
+    {
+      "title": "Tiramisu",
+      "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cream.",
+      "price": "$9.99",
+      "image": "/images/tiramisu.png"
+    }
+  ],
+  "drinks": [
+    {
+      "title": "Craft Beer Sampler Platter",
+      "description": "A selection of local and craft beers for a tasting experience.",
+      "price": "$15.99",
+      "image": "/images/beer-sampler.png"
+    },
+    {
+      "title": "Mango Habanero Margarita",
+      "description": "A spicy twist on the classic margarita with fresh mango and habanero-infused tequila.",
+      "price": "$9.99",
+      "image": "/images/mango-margarita.png"
+    },
+    {
+      "title": "Tropical Punch",
+      "description": "A fruity and refreshing punch with a mix of tropical juices and a splash of soda.",
+      "price": "$7.99",
+      "image": "/images/tropical-punch.png"
+    },
+    {
+      "title": "Iced Caramel Espresso Martini",
+      "description": "A chilled espresso martini with a hint of caramel and served over ice.",
+      "price": "$10.99",
+      "image": "/images/caramel-martini.png"
+    },
+    {
+      "title": "Classic Mojito",
+      "description": "Fresh mint, lime, and simple syrup muddled with white rum and topped with soda.",
+      "price": "$8.99",
+      "image": "/images/classic-mojito.png"
+    },
+    {
+      "title": "Berry Blast Smoothie",
+      "description": "Mixed berries blended with yogurt and a touch of honey.",
+      "price": "$6.99",
+      "image": "/images/berry-smoothie.png"
+    }
+  ]
+}
